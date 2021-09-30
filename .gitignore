@@ -1,3 +1,6 @@
+_*
+*.log
+*.Rproj
 .Rproj.user
 .Rhistory
 .Rdata
